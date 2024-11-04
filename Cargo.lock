@@ -930,6 +930,8 @@ checksum = "e3148f5046208a5d56bcfc03053e3ca6334e51da8dfb19b6cdc8b306fae3283e"
 [[package]]
 name = "pixel_loop"
 version = "0.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "9c759e84641bf74c6d67eb3433382dc5ea391002c68dd4f11b872562262b7383"
 dependencies = [
  "anyhow",
  "pixels",
